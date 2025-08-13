@@ -32,38 +32,29 @@ NumberScope is an educational web application designed to help users understand,
 
 ### Prerequisites
 - Node.js (version 18 or higher)
-- pnpm (recommended) or npm
+- npm
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/azizmarhoum/NumberScope.git
    cd NumberScoup
    ```
 
 2. **Install dependencies**
    ```bash
-   pnpm install
-   # or
    npm install
    ```
 
 3. **Start the development server**
    ```bash
-   pnpm dev
-   # or
    npm run dev
    ```
 
 4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application
 
-### Build for Production
-```bash
-pnpm build
-pnpm preview
-```
 
 ## 🛠️ Technology Stack
 
@@ -189,9 +180,6 @@ NumberScoup/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
