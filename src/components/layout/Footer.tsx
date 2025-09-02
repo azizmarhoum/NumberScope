@@ -11,7 +11,7 @@ export function Footer() {
             </span>
           </Link>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} NumberScope. All rights reserved.
+            © {new Date().getFullYear()} NumberScope. All rights reserved. Created by Marhoum Abdelaziz 
           </p>
         </div>
         <div className="flex gap-4">
